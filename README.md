@@ -17,7 +17,7 @@
 Thank you for visiting this repository which contains projects for learning how to admin and work with databases of Personal Data. This is a part of ***`Back-End Specialization`*** curriculum at `Holberton School`.
 
 <p align="center">
-  <img width="350"  
+  <img width="180"  
         src="https://thumbs.gfycat.com/LiquidWeightyEchidna-size_restricted.gif"
   >
 </p>
@@ -70,7 +70,7 @@ The projects in this repository cover:
 
 | Project | Description |
 | :--- | :---|
-| **[0x00. Personal data](./0x00-personal_data)** | Work PII fields |`encrypt and check passwords` | authenticate | env. var |
+| **[0x00. Personal data](./0x00-personal_data)** | Work `PII fields`, `encrypt and check passwords`, `authenticate`, `env. var`|
 
 ---
 	
