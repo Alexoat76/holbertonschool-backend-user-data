@@ -72,6 +72,7 @@ The projects in this repository cover:
 | :--- | :---|
 | **[0x00. Personal data](./0x00-personal_data)** | Work `PII fields`, `encrypt and check passwords`, `authenticate`, `env. var`|
 | **[0x01. Basic authentication](./0x01-Basic_authentication)** | Implement a `Basic Authentication` on a  ***`Simple API`***.|
+| **[0x02. Session authentication](./0x02-Session_authentication)** | *` REST API `* *Authentication Mechanisms*.|
 	
 ---
 	
