@@ -14,7 +14,7 @@
 This project contains some tasks for learning how to implement a *`User authentication service`*.
 
 <p align="center">
-  <img width="300"
+  <img width="320"
         src="https://files.realpython.com/media/Building-a-Simple-Web-App-With-Bottle-SQLAlchemy-and-the-Twitter-API_Watermarked.93f687b7b47c.jpg"
   >
 </p>
